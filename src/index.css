@@ -1,0 +1,13 @@
+.body {
+  background-color: rgb(175, 184, 133);
+  size: medium;
+
+}
+
+.size{
+  width: 45%;
+  border: 1px solid black;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
